@@ -1,0 +1,18 @@
+Aim:To perform various dictionary operations and count the frequency of characters in a string.
+
+Algorithm:
+
+1. Start.
+2. Create a dictionary containing Name, Age, Post, and Salary.
+3. Display the dictionary and access its individual values.
+4. Add an ID to the dictionary and display the result.
+5. Update the Age and display the modified dictionary.
+6. Delete the Salary element and display the dictionary.
+7. Accept a string from the user.
+8. Count the frequency of each character using a dictionary.
+9. Display each character along with its frequency.
+10. Display the dictionary keys, values, and items using built-in methods.
+11. Retrieve the Name and Marks using the `get()` method.
+12. Update the dictionary by adding Marks and modifying Age.
+13. Display the final dictionary.
+14. Stop.
